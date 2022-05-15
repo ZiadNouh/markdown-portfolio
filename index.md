@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# Ziad Nouh
 
 <br>
 
-{% include 02-image.md %}
+![profile_image](https://avatars.githubusercontent.com/u/64560345?s=400&u=788077ad546371ea2ff6d205a36dcf14b6863606&v=4)
 
 <br>
 
-{% include 03-links.md %}
+[GITHUB_Profile](https://github.com/ZiadNouh)
 
